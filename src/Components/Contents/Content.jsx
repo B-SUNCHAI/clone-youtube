@@ -1,5 +1,5 @@
 import Tags from "../Tags/Tags";
-import "./ContentStyle.css";
+import "./Content_Style.css";
 function Content() {
   return (
     <section id="content">
